@@ -54,7 +54,7 @@
 	 <tr>
       <td>水印</td>
       <td>拍摄支持添加水印。</td>
-      <td style="text-align:center">×</td>
+      <td style="text-align:center">&#10005;</td>
       <td style="text-align:center">&#10003;</td>
 	    <td style="text-align:center">&#10003;</td>
       <td style="text-align:center">&#10003;</td>
@@ -86,7 +86,7 @@
    <tr>
       <td>拍照</td>
       <td>支持拍摄照片。</td>
-      <td style="text-align:center">×</td>
+      <td style="text-align:center">&#10005;</td>
       <td style="text-align:center">&#10003;</td>
       <td style="text-align:center">&#10003;</td>
       <td style="text-align:center">&#10003;</td>
@@ -94,7 +94,7 @@
    <tr>
       <td>变速录制</td>
       <td>拍摄时支持慢速和快速录制。</td>
-      <td style="text-align:center">×</td>
+      <td style="text-align:center">&#10005;</td>
       <td style="text-align:center">&#10003;</td>
       <td style="text-align:center">&#10003;</td>
       <td style="text-align:center">&#10003;</td>
@@ -102,7 +102,7 @@
    <tr>
       <td>背景音乐</td>
       <td>拍摄前可以选择本地的 MP3 作为背景音。</td>
-      <td style="text-align:center">×</td>
+      <td style="text-align:center">&#10005;</td>
       <td style="text-align:center">&#10003;</td>
       <td style="text-align:center">&#10003;</td>
       <td style="text-align:center">&#10003;</td>
@@ -110,7 +110,7 @@
    <tr>
       <td>变声和混响</td>
       <td>拍摄前对录制的声音变声（如萝莉、大叔）和混响效果（如 KTV、会堂）。</td>
-      <td style="text-align:center">×</td>
+      <td style="text-align:center">&#10005;</td>
       <td style="text-align:center">&#10003;</td>
       <td style="text-align:center">&#10003;</td>
       <td style="text-align:center">&#10003;</td>
@@ -136,33 +136,33 @@
    <tr>
       <td>高级美颜</td>
       <td>拍摄设置大眼、瘦脸、V 脸、下巴调整、短脸、小鼻效果，并支持调节强度。</td>
-      <td style="text-align:center">×</td>
-      <td style="text-align:center">×</td>
-      <td style="text-align:center">×</td>
+      <td style="text-align:center">&#10005;</td>
+      <td style="text-align:center">&#10005;</td>
+      <td style="text-align:center">&#10005;</td>
       <td style="text-align:center">&#10003;</td>
    </tr>
    <tr>
       <td>动效贴纸</td>
       <td>人脸识别，然后添加变形、覆盖贴纸挂件等效果。</td>
-      <td style="text-align:center">×</td>
-      <td style="text-align:center">×</td>
+      <td style="text-align:center">&#10005;</td>
+      <td style="text-align:center">&#10005;</td>
       <td style="text-align:center">&#10003;</td>
       <td style="text-align:center">&#10003;</td>
    </tr>
    <tr>
       <td>AI 抠图</td>
       <td>识别出人的轮廓，把背景抠除，替换成其他的元素，例如动态背景/PPT 等。</td>
-      <td style="text-align:center">×</td>
-      <td style="text-align:center">×</td>
-      <td style="text-align:center">×</td>
+      <td style="text-align:center">&#10005;</td>
+      <td style="text-align:center">&#10005;</td>
+      <td style="text-align:center">&#10005;</td>
       <td style="text-align:center">&#10003;</td>
    </tr>
    <tr>
       <td>绿幕抠像</td>
       <td>将画面中的绿色元素(例如纯绿背景)抠除，替换成其他的元素，例如动态背景/PPT 等。</td>
-      <td style="text-align:center">×</td>
-      <td style="text-align:center">×</td>
-      <td style="text-align:center">×</td>
+      <td style="text-align:center">&#10005;</td>
+      <td style="text-align:center">&#10005;</td>
+      <td style="text-align:center">&#10005;</td>
       <td style="text-align:center">&#10003;</td>
    </tr>
 
@@ -210,7 +210,7 @@
    <tr>
       <td>滤镜</td>
       <td>给视频添加滤镜，并支持设置滤镜的强度。</td>
-      <td style="text-align:center">×</td>
+      <td style="text-align:center">&#10005;</td>
       <td style="text-align:center">&#10003;</td>
       <td style="text-align:center">&#10003;</td>
       <td style="text-align:center">&#10003;</td>
@@ -218,7 +218,7 @@
    <tr>
       <td>时间特效</td>
       <td>给视频添加倒放、反复、慢动作的时间特效。</td>
-      <td style="text-align:center">×</td>
+      <td style="text-align:center">&#10005;</td>
       <td style="text-align:center">&#10003;</td>
       <td style="text-align:center">&#10003;</td>
       <td style="text-align:center">&#10003;</td>
@@ -226,7 +226,7 @@
    <tr>
       <td>滤镜特效</td>
       <td>给视频添加灵魂出窍、动感光波、分裂、幻影等特效。</td>
-      <td style="text-align:center">×</td>
+      <td style="text-align:center">&#10005;</td>
       <td style="text-align:center">&#10003;</td>
       <td style="text-align:center">&#10003;</td>
       <td style="text-align:center">&#10003;</td>
@@ -234,7 +234,7 @@
    <tr>
       <td>背景音乐</td>
       <td>选择自带声音文件或用户手机本地的 MP3 作为背景音，支持背景音乐的裁剪和设置音量大小。</td>
-      <td style="text-align:center">×</td>
+      <td style="text-align:center">&#10005;</td>
       <td style="text-align:center">&#10003;</td>
       <td style="text-align:center">&#10003;</td>
       <td style="text-align:center">&#10003;</td>
@@ -242,7 +242,7 @@
    <tr>
       <td>动态或者静态贴纸</td>
       <td>添加动态或者静态贴纸，支持设置在视频画面中显示位置和起始时间。</td>
-      <td style="text-align:center">×</td>
+      <td style="text-align:center">&#10005;</td>
       <td style="text-align:center">&#10003;</td>
       <td style="text-align:center">&#10003;</td>
       <td style="text-align:center">&#10003;</td>
@@ -250,7 +250,7 @@
    <tr>
       <td>字幕</td>
       <td>添加字幕，可以选择字幕边框背景的样式，例如气泡等等，支持设置在视频画面中显示位置和起始时间。</td>
-      <td style="text-align:center">×</td>
+      <td style="text-align:center">&#10005;</td>
       <td style="text-align:center">&#10003;</td>
       <td style="text-align:center">&#10003;</td>
       <td style="text-align:center">&#10003;</td>
@@ -258,7 +258,7 @@
    <tr>
       <td>图片转场</td>
       <td>导入多张图片，并选择旋转、淡入淡出等转场效果，并生成视频。</td>
-      <td style="text-align:center">×</td>
+      <td style="text-align:center">&#10005;</td>
       <td style="text-align:center">&#10003;</td>
       <td style="text-align:center">&#10003;</td>
       <td style="text-align:center">&#10003;</td>
@@ -267,7 +267,7 @@
       <td rowspan='2'>视频拼接</td>
       <td>多视频拼接</td>
       <td>支持多视频前后拼接。</td>
-      <td style="text-align:center">×</td>
+      <td style="text-align:center">&#10005;</td>
       <td style="text-align:center">&#10003;</td>
       <td style="text-align:center">&#10003;</td>
       <td style="text-align:center">&#10003;</td>
@@ -275,7 +275,7 @@
    <tr>
       <td>跟拍</td>
       <td>支持根据播放的视频进行跟拍，生成双画面视频。</td>
-      <td style="text-align:center">×</td>
+      <td style="text-align:center">&#10005;</td>
       <td style="text-align:center">&#10003;</td>
       <td style="text-align:center">&#10003;</td>
       <td style="text-align:center">&#10003;</td>
